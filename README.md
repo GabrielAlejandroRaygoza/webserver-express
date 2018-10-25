@@ -1,6 +1,6 @@
 ## Código de webserver - Curso de node
 
-No se olvide instalar 
+No se olvide ejecutar el siguiente comando
 
 ```
 npm install
